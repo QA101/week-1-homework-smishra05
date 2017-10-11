@@ -5,6 +5,20 @@
 
 3. Complete PracticeIT exercises assigned and submit screenshot of Summary page as image in “WK1 - Book_Video_PracticeIT” folder
 
+4. Write following programs:
 
-Challenge: Complete coding exercises in “Challenge_coding” folder and submit as new JAVA files
+* Write a program that will find sum, subtraction, multiplication and division
+and if one number bigger than other true or false for:
+1) x = 175 / y =255
+2) x = 25.75 / y = 17.34
+
+* Write a program that will change values of variables:
+x=10 and y=5 => swap to make x=5 and y=10
+x=2.5 and y=7.5 => swap to make x=7.5 and y=2.5
+x=10 / y=5 / z=12 => swap to make x=12 / y=10 /z=5
+
+Submit it as new JAVA files into “WK1 - Book_Video_PracticeIT” folder
+
+
+5. Challenge: Complete coding exercises in “Challenge_coding” folder and submit as new JAVA files
 (This will be part of your next week homework)
