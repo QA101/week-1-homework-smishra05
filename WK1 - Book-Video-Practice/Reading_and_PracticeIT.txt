@@ -1,0 +1,37 @@
+1. Reading:
+
+4.1-4.3 (review)
+2.3-2.5
+7.1-7.2
+
+
+2. Videos:
+
+If/Else: http://beginnersjava.com/java-tutorial-6-%e2%80%94-intro-to-ifelse-logic/
+http://beginnersjava.com/java-tutorial-6-%e2%80%94-nested-if-else-structure-and-logic/ 
+
+For loops: http://beginnersjava.com/java-tutorial-10-loop-logic-intro/
+http://beginnersjava.com/java-tutorial-11-for-loops-nested-for-loops/ 
+
+Arrays: http://beginnersjava.com/java-tutorial-15-1-15-2-introduction-to-and-using-arrays/
+
+
+Rogue game (1980): https://www.youtube.com/watch?v=vxF1osPkplA
+Submitting homework: https://www.youtube.com/watch?v=ZlWt-oEE8XU
+
+
+
+3. PracticeIT:
+
+Chapter 4:  
+Self-Check: 4.1, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9
+Exercises: 4.3, 4.4 and 4.10
+
+Chapter 2:
+Self-Check – 2.18, 2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25
+Exercises – 2.2
+
+Chapter 7:
+Self-check: 7.1, 7.3, 7.4, 7.6, 7.8, 7.9, 7.13, 7.14
+Exercises: 7.3, 7.8, 7.9
+

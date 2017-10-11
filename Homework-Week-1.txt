@@ -1,0 +1,10 @@
+1. Complete coding exercises in “src” folder of the repo and submit via git
+(This is your Week 1 class material)
+
+2. Read Textbook chapters and watch videos assigned in “WK1 - Book_Video_PracticeIT” folder
+
+3. Complete PracticeIT exercises assigned and submit screenshot of Summary page as image in “WK1 - Book_Video_PracticeIT” folder
+
+
+Challenge: Complete coding exercises in “Challenge_coding” folder and submit as new JAVA files
+(This will be part of your next week homework)
