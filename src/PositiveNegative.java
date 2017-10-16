@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class PositiveNegative {
 
 	/*
@@ -7,5 +9,19 @@ public class PositiveNegative {
 	 */
 	public static void main(String args[]){
 		
+		int X=0;
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter an integer");
+		System.out.println("Enter X");
+		X=in.nextInt();
+		in.close();
+		if(X>0)
+		{
+			System.out.println("the number is positive");
+		}
+		else if(X<0)
+		{
+			System.out.println("the number is negative");
+		}
 	}
 }

@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class DivisibleProgram {
 
@@ -12,6 +13,25 @@ public class DivisibleProgram {
 	 * 10 divided by 5 is 2 with 0 remainder. The program would print true
 	 */
 	public static void main(String args[]){
+		
+		int x=0;
+		int y=0;
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter 2 positive Numbers as follows :-");
+		System.out.println("Enter x");
+		x=in.nextInt();
+		System.out.println("Enter y");
+		y=in.nextInt();
+		in.close();
+		if(y==0)
+		{
+			System.out.println("Invalid Input (Cant enter 0 or negative number)");
+		}
+		else if (x%y==0)
+		{
+			System.out.println("True");
+		}
+		
 		
 	}
 }
